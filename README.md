@@ -1,5 +1,7 @@
 # OPIN AC Control
 
+[![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+
 ![AC Control](https://github.com/OPIN-Smart-Home/ACControl/blob/main/asset/ACControl.png)
 
 ## Table of Contents
