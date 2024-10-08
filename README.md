@@ -19,6 +19,7 @@ For Developer
 
 Additional Information
 - [OPIN Smart Home Devices](#opin-smart-home-devices)
+- [Acknowledgments](#acknowledgments)
 - [Further Information](#further-information)
 
  ---
@@ -247,6 +248,16 @@ Other devices:
 - [OPIN Smart Lamp](<https://github.com/OPIN-Smart-Home/SmartLamp>)
 - [OPIN Smart kWh Meter](<https://github.com/OPIN-Smart-Home/kWhMeter>)
 - [OPIN Smart Door Lock](<https://github.com/OPIN-Smart-Home/DoorLock>)
+
+## Acknowledgments
+This project makes use of:  
+- [PicoMQTT](<https://github.com/mlesniew/PicoMQTT>) by [mlesniew](<https://github.com/mlesniew>) (Michał Leśniewski), under [LGPL-3.0 license](<https://github.com/mlesniew/PicoMQTT/blob/master/LICENSE>).
+- [WiFiManager](<https://github.com/tzapu/WiFiManager>) by [tzapu](<https://github.com/tzapu>), under [MIT license](<https://github.com/tzapu/WiFiManager/blob/master/LICENSE>).
+- [IRremoteESP8266](<https://github.com/crankyoldgit/IRremoteESP8266>) by [crankyoldgit](<https://github.com/crankyoldgit>) (David Conran), under [LGPL-2.1 license](<https://github.com/crankyoldgit/IRremoteESP8266/blob/master/LICENSE.txt>).
+- [Adafruit_BME280_Library](<https://github.com/adafruit/Adafruit_BME280_Library>) by [adafruit](<https://github.com/adafruit>), under [license](<https://github.com/adafruit/Adafruit_BME280_Library/blob/master/LICENSE>).
+- [Adafruit_MAX1704X](<https://github.com/adafruit/Adafruit_MAX1704X>) by [adafruit](<https://github.com/adafruit>), under [license](<https://github.com/adafruit/Adafruit_MAX1704X/blob/main/license.txt>).
+
+We appreciate their efforts and contributions, which have been instrumental in the development of this project.
 
 ## Further Information
 For further information, please feel free to contact me at:
